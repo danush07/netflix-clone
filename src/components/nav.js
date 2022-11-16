@@ -19,8 +19,6 @@ const Nav = () => {
                     </div>
                 </div>
                 <div className="nav-right">
-                     
-                 
                 <svg
                 width='24'
                 height='24'
@@ -34,7 +32,7 @@ const Nav = () => {
               fill='currentColor'
             ></path>
           </svg>
-          <p>Search Here !</p>
+          <p>Search</p>
           <svg
             width='24'
             height='24'
