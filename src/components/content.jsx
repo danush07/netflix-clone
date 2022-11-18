@@ -1,8 +1,8 @@
 import "./content.css";
-import axios from "axios";
 import Row from "./Row";
 import RowData from "../constants/urls";
-import { useEffect, useState } from "react";export default function Content() {
+
+export default function Content() {
   return (
     <div className='content-wrapper'>
       {RowData.map((el) => {
